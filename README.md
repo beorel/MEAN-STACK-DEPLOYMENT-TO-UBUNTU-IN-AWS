@@ -123,6 +123,7 @@ nvm install node
 ```
 
 The output should look something like this:
+
 ![](https://github.com/beorel/MEAN-STACK-DEPLOYMENT-TO-UBUNTU-IN-AWS/blob/main/IMAGES/Screenshot%20(241).png)
 
 Verify it by printing the Node.js version:
@@ -144,6 +145,7 @@ You can list the installed Node.js versions by typing:
 nvm ls
 ```
 The output should look something like this:
+
 ![](https://github.com/beorel/MEAN-STACK-DEPLOYMENT-TO-UBUNTU-IN-AWS/blob/main/IMAGES/Screenshot%20(242).png)
 
 The entry with an arrow on the right (> v10.9.0) is the Node.js version used in the current shell session and the default version is set to v19.2.0.
